@@ -1,20 +1,5 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻, Hi 👋, I'm Prashant Yadav</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-```
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Prashant Yadav"
-        self.role = "Software Engineer"
-        self.language_spoken = ["English", "Hindi","Marathi"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavprashant510&label=Profile%20views&color=0e75b6&style=flat" alt="yadavprashant510" /> </p>
 
