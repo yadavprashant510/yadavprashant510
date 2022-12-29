@@ -19,11 +19,24 @@ Here are some ideas to get you started:
 
 Software Engineer at Terminus
 
-
-
-
-👆 This command line tool can be found at npx anmol
 A little more about me...
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Prashant Yadav"
+        self.role = "Software Engineer"
+        self.language_spoken = ["English", "Hindi","Marathi"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
